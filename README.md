@@ -5,7 +5,7 @@ A Flutter project:
 
 |                |              |
 | :------------- | :----------: |
-![ welcome page](https://raw.githubusercontent.com/ebubechi/ddropbox-clone/screenshots/welcome.png) | ![ home page ](https://raw.githubusercontent.com/ebubechi/dropbox-clone/screenshots/home.png)
+![ welcome page](https://raw.githubusercontent.com/ebubechi/ddropbox-clone/screenshots/welcome.png) | ![ home page ](https://github.com/ebubechi/dropbox-clone/blob/main/screenshots/home.png)
 
 ## Getting Started
 
