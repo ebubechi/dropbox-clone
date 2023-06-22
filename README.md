@@ -1,6 +1,11 @@
 # dropbox_clone
 
-A new Flutter project.
+A Flutter project:
+  A clone of dropbox
+
+|                |              |
+| :------------- | :----------: |
+![ welcome page](https://raw.githubusercontent.com/ebubechi/dropbox-clone/screenshots/welcome.png) | ![ home page ](https://raw.githubusercontent.com/ebubechi/dropbox-clone/screenshots/home.png)
 
 ## Getting Started
 
